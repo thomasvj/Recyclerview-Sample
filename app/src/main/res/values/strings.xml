@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecyclerViewSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="linear">Linear Layout Manager</string>
+    <string name="grid">Grid Layout Manager</string>
+    <string name="staggered">Staggered Layout Manager</string>
+</resources>
